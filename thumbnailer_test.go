@@ -5,7 +5,7 @@ import (
 )
 
 const (
-	input  = "../gotube/test-data/BetterLife_HighQuality.ogv"
+	input  = "test-data/big_buck_bunny.ogv"
 	output = "popeye.jpg"
 	size   = 0
 	time   = "50%"
